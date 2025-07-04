@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/yangchenglin/Desktop/Android-SDK@3.7.9.81745_20230327/Android-SDK@3.7.9.81745_20230327/UniPlugin-Hello-AS/ApkInfo/.cxx/Debug/47623u6f/x86_64",
+  "command": "C:\\Users\\yangchenglin\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android22 --sysroot=C:/Users/yangchenglin/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DApkInfo_EXPORTS -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti -stdlib=libc++ -g  -fno-limit-debug-info -fPIC -o CMakeFiles\\ApkInfo.dir\\ApkInfo.cpp.o -c C:\\Users\\yangchenglin\\Desktop\\Android-SDK@3.7.9.81745_20230327\\Android-SDK@3.7.9.81745_20230327\\UniPlugin-Hello-AS\\ApkInfo\\src\\main\\cpp\\ApkInfo.cpp",
+  "file": "C:\\Users\\yangchenglin\\Desktop\\Android-SDK@3.7.9.81745_20230327\\Android-SDK@3.7.9.81745_20230327\\UniPlugin-Hello-AS\\ApkInfo\\src\\main\\cpp\\ApkInfo.cpp"
+}
+]

@@ -1,0 +1,66 @@
+{
+  "nativePlugins": [
+    {
+      "plugins": [
+        {
+          "type": "module",
+          "name": "GuoWei-SelectFileModule",
+          "class": "net.easyforme.selectfile.SelectFileModule"
+        }
+      ],
+      "hooksClass": "",
+      "integrateType": "aar",
+      "dependencies": [
+      ],
+      "compileOptions": {
+        "sourceCompatibility": "1.8",
+        "targetCompatibility": "1.8"
+      },
+      "abis": [
+        "armeabi-v7a",
+        "arm64-v8a",
+        "x86"
+      ],
+      "minSdkVersion": "21",
+      "useAndroidX": false,
+      "permissions": [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.MANAGE_EXTERNAL_STORAGE"
+      ],
+      "parameters": {
+      }
+    },
+    {
+      "hooksClass": "",
+      "plugins": [
+        {
+          "type": "module",
+          "name": "x2Request",
+          "class": "ink.x2.request.request"
+        }
+      ],
+      "permissions": [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.ACCESS_NETWORK_STATE"
+      ]
+    },
+    {
+      "plugins": [
+        {
+          "type": "module",
+          "name": "Fengci-AppList",
+          "class": "ink.x2.applist.AppList"
+        }
+      ],
+      "permissions": [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.MANAGE_EXTERNAL_STORAGE",
+        "android.permission.READ_CONTACTS",
+        "android.permission.SEND_SMS"
+      ]
+    }
+  ]
+}

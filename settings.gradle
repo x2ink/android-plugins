@@ -1,0 +1,10 @@
+include ':app'
+//include ':ApkInfo'
+include ':Fengci-AppList'
+include ':x2Request'
+dependencyResolutionManagement {
+    repositories {
+        // JitPack 远程仓库：https://jitpack.io
+        maven { url 'https://jitpack.io' }
+    }
+}

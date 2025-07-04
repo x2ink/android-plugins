@@ -1,0 +1,3 @@
+C:/Users/yangchenglin/Desktop/Android-SDK@3.7.9.81745_20230327/UniPlugin-Hello-AS/ApkInfo/.cxx/Debug/47623u6f/arm64-v8a/CMakeFiles/ApkInfo.dir
+C:/Users/yangchenglin/Desktop/Android-SDK@3.7.9.81745_20230327/UniPlugin-Hello-AS/ApkInfo/.cxx/Debug/47623u6f/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/yangchenglin/Desktop/Android-SDK@3.7.9.81745_20230327/UniPlugin-Hello-AS/ApkInfo/.cxx/Debug/47623u6f/arm64-v8a/CMakeFiles/rebuild_cache.dir

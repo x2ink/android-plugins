@@ -1,0 +1,1 @@
+C:\Users\yangchenglin\Desktop\Android-SDK@3.7.9.81745_20230327\Android-SDK@3.7.9.81745_20230327\UniPlugin-Hello-AS\ApkInfo\src\main\cpp\CMakeLists.txt

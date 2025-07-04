@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/yangchenglin/Desktop/Android-SDK@3.7.9.81745_20230327/UniPlugin-Hello-AS/ApkInfo/.cxx/RelWithDebInfo/3n2a4k6k/armeabi-v7a",
+  "command": "C:\\Users\\yangchenglin\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi22 --sysroot=C:/Users/yangchenglin/AppData/Local/Android/Sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DApkInfo_EXPORTS -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -fexceptions -frtti -stdlib=libc++ -O2 -g -DNDEBUG -fPIC -o CMakeFiles\\ApkInfo.dir\\ApkInfo.cpp.o -c C:\\Users\\yangchenglin\\Desktop\\Android-SDK@3.7.9.81745_20230327\\UniPlugin-Hello-AS\\ApkInfo\\src\\main\\cpp\\ApkInfo.cpp",
+  "file": "C:\\Users\\yangchenglin\\Desktop\\Android-SDK@3.7.9.81745_20230327\\UniPlugin-Hello-AS\\ApkInfo\\src\\main\\cpp\\ApkInfo.cpp"
+}
+]

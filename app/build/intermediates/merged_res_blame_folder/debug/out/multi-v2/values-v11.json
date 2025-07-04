@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.android.UniPlugin.app-mergeDebugResources-19:/values-v11/values-v11.xml",
+            "map": [
+                {
+                    "source": "/Users/yangchenglin/.gradle/caches/8.11.1/transforms/a866622a0c397b97a6d69f57ae47183e/transformed/jetified-printerService-release/res/values-v11/values-v11.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "138"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+  "buildFiles": [
+    "C:\\Users\\yangchenglin\\Desktop\\Android-SDK@3.7.9.81745_20230327\\Android-SDK@3.7.9.81745_20230327\\UniPlugin-Hello-AS\\ApkInfo\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\yangchenglin\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\yangchenglin\\Desktop\\Android-SDK@3.7.9.81745_20230327\\Android-SDK@3.7.9.81745_20230327\\UniPlugin-Hello-AS\\ApkInfo\\.cxx\\Debug\\47623u6f\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\yangchenglin\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\yangchenglin\\Desktop\\Android-SDK@3.7.9.81745_20230327\\Android-SDK@3.7.9.81745_20230327\\UniPlugin-Hello-AS\\ApkInfo\\.cxx\\Debug\\47623u6f\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "ApkInfo::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "ApkInfo",
+      "output": "C:\\Users\\yangchenglin\\Desktop\\Android-SDK@3.7.9.81745_20230327\\Android-SDK@3.7.9.81745_20230327\\UniPlugin-Hello-AS\\ApkInfo\\build\\intermediates\\cxx\\Debug\\47623u6f\\obj\\x86\\libApkInfo.so",
+      "runtimeFiles": [
+        "C:\\Users\\yangchenglin\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\i686-linux-android\\22\\liblog.so"
+      ]
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "C:\\Users\\yangchenglin\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe",
+      "cppCompilerExecutable": "C:\\Users\\yangchenglin\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}
