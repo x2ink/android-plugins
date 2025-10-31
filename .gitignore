@@ -1,0 +1,9 @@
+# 忽略 macOS 的垃圾文件
+.DS_Store
+
+# 忽略所有隐藏文件（除了 .gitignore）
+.*
+!.gitignore
+
+# 忽略构建目录
+build/
